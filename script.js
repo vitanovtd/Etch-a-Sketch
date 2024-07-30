@@ -57,6 +57,4 @@ window.addEventListener("click", (event) => {
   }
 });
 
-// resetButton.addEventListener("click", promptForGridSize);
-
 createGrid(16);
